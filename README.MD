@@ -1,5 +1,5 @@
 ## New Brave Window
-Use `bw` in Alfred to create a new Brave window in the current context.
+Use `bw` in Alfred to open a new Brave window in the current context.
 
 ### Install instructions
 1. Launch `BraveWindow.alfredworkflow`
